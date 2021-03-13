@@ -10,4 +10,9 @@ public class App
     {
         System.out.println( "Hello Java World!" );
     }
+
+    public void suarbah() {
+        System.out.println("saurbah");
+    }
+
 }
