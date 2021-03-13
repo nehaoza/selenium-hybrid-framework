@@ -11,7 +11,7 @@ public class App
         System.out.println( "Hello Java World!" );
     }
 
-    public void suarbh() {
+    public void suarbh2() {
         System.out.println("saurbh ====>>>>> entering in java");
     }
 
