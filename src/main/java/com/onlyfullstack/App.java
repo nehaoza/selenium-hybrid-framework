@@ -14,4 +14,9 @@ public class App
     public void suarbh_new() {
         System.out.println("saurbh ====>>>>> entering in java");
     }
+
+
+    public void surabhi() {
+        System.out.println("surabhi");
+    }
 }
